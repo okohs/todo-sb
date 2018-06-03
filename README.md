@@ -1,2 +1,2 @@
 # todo-sb
-Todo App using Spring Boot ( for study)
+Todo App using Spring Boot ( for study )
